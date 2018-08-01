@@ -1,0 +1,11 @@
+Instructions to create a public repositry and duplicate from a private repository
+1. Create a new public repository:
+
+git clone --bare <Link to private repository>
+cd <Name of the private repository>.git
+git push --mirror <Link to public repository>
+cd ..
+rm -rf <Name of the private Repository>.git
+
+
+
