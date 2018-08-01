@@ -1,4 +1,6 @@
 # TestRepo
 
-Some changes made to the readme file.
-Some more changes.
+
+Changes made to the TestRepo.
+These need to reflect in the master
+
